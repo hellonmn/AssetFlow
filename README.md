@@ -45,7 +45,7 @@ You can use the following seeded accounts to log in and explore different role-b
    ```env
    PORT=5000
    NODE_ENV=development
-   DATABASE_URL=postgresql://neondb_owner:npg_7EHnUSt4NJIl@ep-flat-mode-atwvfoch-pooler.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+   DATABASE_URL=postgresql://....
    JWT_SECRET=supersecretjwtkeyforassetflowdev123!
    ```
 
