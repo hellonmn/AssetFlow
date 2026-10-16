@@ -46,7 +46,7 @@ You can use the following seeded accounts to log in and explore different role-b
    PORT=5000
    NODE_ENV=development
    DATABASE_URL=postgresql://....
-   JWT_SECRET=supersecretjwtkeyforassetflowdev123!
+   JWT_SECRET=demo!
    ```
 
 4. Seed the PostgreSQL database with operational mock data (users, categories, assets, allocations, bookings):
